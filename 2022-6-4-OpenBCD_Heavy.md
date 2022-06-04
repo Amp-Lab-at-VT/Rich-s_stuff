@@ -1,9 +1,9 @@
 ---
 layout: project_template
-title: OpenBCD_Heavy
-description: This is a bBrain Computer Interface that uses EEG to detect brainwaves. It also allows the user to control other electronics.
+title: OpenBCI_Heavy
+description: This is a Brain Computer Interface that uses EEG to detect brainwaves. It also allows the user to control other electronics.
 date: 2022-6-4 09:00:00
-hero_image: /web/img/SampleProject/open_house.png
+hero_image: /web/img/Rich-s_stuff/Open-Source-Imaging-OpenBCI-headsetcomponents.jpg
 image: /web/img/SampleProject/open_house.png
 hero_height: is-small
 hero_darken: true
